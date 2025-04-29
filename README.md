@@ -3,6 +3,6 @@
 - ゲーム開発・web開発・モバイルアプリ開発
 
 ## 関連リンク
-- [ポートフォリオサイト](https://rita-portfolio-hijegq5vb-ritas-projects-e5a3bc10.vercel.app/)
+- [ポートフォリオサイト](https://rita-s-portfolio.vercel.app/)
 - [Topa'z](https://topaz.dev/rita)
 - [unityroom](https://unityroom.com/users/rita)
